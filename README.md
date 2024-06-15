@@ -1,2 +1,3 @@
 # hello-world
-This repository is for practicing the GitHub flow
+Hi, I'm @ryleelalonde. 
+I am a first year Ph.D. student in bioarchaeology at Michigan State University. 
